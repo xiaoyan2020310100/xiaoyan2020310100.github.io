@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "multimodal_av_crowdsource2021"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal  # 或者是 conference, working
+permalink: /publication/paper-1
+date: 2026-04-16
+# 关键部分：把你想要直接显示在网页上的文字全写在这里
+citation: "Wang, X., Lin, X., & Li, M. (2021). Aggregate modeling and equilibrium analysis of the crowdsourcing market for autonomous vehicles. Transportation Research Part C: Emerging Technologies, 132, 103362."
+# paperurl: "https://www.sciencedirect.com/science/article/pii/S0968090X21003648"
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font./p
