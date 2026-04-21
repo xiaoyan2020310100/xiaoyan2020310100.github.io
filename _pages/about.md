@@ -20,4 +20,4 @@ Autonomous vehicle crowdsourcing services enable privately owned AVs to serve ri
 
 
 
-![Research Ecosystem](/images/research_interest_2.png)
+![Research Ecosystem]({{ '/images/research_interest_2.png' | relative_url }})
