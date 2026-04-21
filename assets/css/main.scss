@@ -41,7 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.sidebar {
-  position: relative !important;
-  float: left;
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    position: relative !important;
+    float: left;
+    width: 200px;
+  }
+  
+  .page {
+    float: right;
+    width: calc(100% - 220px);
+  }
 }
