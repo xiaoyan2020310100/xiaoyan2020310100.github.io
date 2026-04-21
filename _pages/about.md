@@ -3,7 +3,7 @@ layout: single
 permalink: /
 title: "About Me"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 ---
 
 Ms. Xiaoyan Wang is currently a postdoctoral researcher at École Polytechnique Fédérale de Lausanne (EPFL), working in the School of Architecture, Civil and Environmental Engineering (ENAC) under the supervision of Prof. Kenan Zhang. She received her Ph.D. in Civil Engineering from Tsinghua University in 2025 under the supervision of Prof. Meng Li, and her B.Eng. in Civil Engineering, also from Tsinghua University, in 2020. She was awarded the First-Class Academic Scholarship during her Ph.D. studies and received the Outstanding Undergraduate Thesis Award. In 2024, she spent six months at the Hong Kong University of Science and Technology (HKUST) as a visiting student during her Ph.D., hosted by Prof. Hai Yang. Her research focuses on market design and the economic analysis of autonomous mobility services. She aims to bridge transport engineering and market design to ensure that autonomous vehicle crowdsourcing systems are economically viable, operationally implementable, and socially beneficial.
