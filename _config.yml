@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "xiaoyan.jpg" # filename of avatar image placed in /images/
   name             : "Xiaoyan Wang"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              :  "Postdoctoral Researcher, Transportation, EPFL"
-  keywords         : # "<br><br><b>Methodologies</b><br>• Simulation-based Optimization<br>• Gradient-based Methods<br>• Theoretical Analysis<br>• Mechanism Design & Game Theory"
+  # keywords         : # "<br><br><b>Methodologies</b><br>• Simulation-based Optimization<br>• Gradient-based Methods<br>• Theoretical Analysis<br>• Mechanism Design & Game Theory"
   
    # Update this with keywords that describe your research, this is used for SEO and is not visible on the site
   # location         : "Earth"
