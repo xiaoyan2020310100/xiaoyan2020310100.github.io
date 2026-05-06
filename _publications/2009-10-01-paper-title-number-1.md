@@ -8,4 +8,4 @@ date: 2026-04-16
 citation: "Wang, X., Lin, X., & Li, M. (2021). Aggregate modeling and equilibrium analysis of the crowdsourcing market for autonomous vehicles. Transportation Research Part C: Emerging Technologies, 132, 103362."
 # paperurl: "https://www.sciencedirect.com/science/article/pii/S0968090X21003648"
 ---
-*Exploring the service feasibility in a multi-modal transport market.*
+*This study develops a multimodal transport market model, demonstrating high profitability and welfare improvements associated with the service.*
