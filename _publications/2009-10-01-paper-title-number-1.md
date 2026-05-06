@@ -8,4 +8,5 @@ date: 2026-04-16
 citation: "Wang, X., Lin, X., & Li, M. (2021). Aggregate modeling and equilibrium analysis of the crowdsourcing market for autonomous vehicles. Transportation Research Part C: Emerging Technologies, 132, 103362."
 # paperurl: "https://www.sciencedirect.com/science/article/pii/S0968090X21003648"
 ---
+*这是一段关于该论文的斜体描述。例如：本文探讨了自动驾驶众包市场的均衡状态，并提出了一个综合性的宏观建模框架。*
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font./p
