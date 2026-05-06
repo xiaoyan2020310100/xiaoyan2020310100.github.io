@@ -7,5 +7,4 @@ date: 2026-04-16
 # 关键部分：把你想要直接显示在网页上的文字全写在这里
 citation: "Wang, X., Lin, X., Li, M., Xu, Z., & Zhang, K. (2024). Competition of ride-hailing platforms in the era of autonomous vehicles: Heavy or light asset?. Transportation Research Part C: Emerging Technologies, 165, 104732."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*This study analyzes the properties of mixed-strategy Nash equilibrium, with results indicating the critical role of supply capacity in shaping market structure.*
